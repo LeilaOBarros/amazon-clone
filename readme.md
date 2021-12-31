@@ -4,5 +4,11 @@
 📚 Projeto iniciado para exercitar as principais tecnlogias de front-end.
 
 ### 👩‍💻 Linguagens utilizadas até o momento:
+
 * HTML
 * CSS
+*
+
+## Link do site hospedado no Github pages:
+
+* https://leilaobarros.github.io/project-amazonclone/
